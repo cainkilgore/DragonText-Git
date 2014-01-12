@@ -1,0 +1,15 @@
+name: 'DragonText API'
+author: 'Cain'
+version: 1.0
+main: com.cainkilgore.DragonText
+commands:
+   dtt:
+       description: 'Add DragonText with Period'
+       usage: /<command> <period> <message>
+   dt:
+       description: 'Add DragonText'
+       usage: /<command> <message>
+   dtremove:
+       description: 'Remove DragonText'
+       usage: /<command>
+       
